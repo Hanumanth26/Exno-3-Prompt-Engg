@@ -198,8 +198,9 @@ Chapter 5: Thematic insights and future directions.
 Chapter 6: Conclusion and recommendations.
 
 Each chapter builds toward a comprehensive understanding of where the field stands today, and where it is heading.
+![employee_performance_evaluation_workforce_management_team_structure_and_slide01](https://github.com/user-attachments/assets/5d4eda74-25d9-40de-b5a3-51f15ae37a75)
 
-![Uploading employee_performance_evaluation_workforce_management_team_structure_and_slide01.jpg…]()
+
 
 # output
 3.1 Fact-Based Queries
