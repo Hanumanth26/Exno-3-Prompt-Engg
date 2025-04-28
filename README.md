@@ -208,7 +208,9 @@ Prompt	GPT-4	Gemini	Claude	Llama 3
 "Explain quantum computing."	9.2	9.5	8.
 
 
-# Result : The Prompt for the above problem statement executed successfully.
+# Result : 
+  Thus, the evaluation of 2024 prompting tools across leading AI platforms- ChatGpt , Claude , Bard ,
+Cohere Command, and Meta’s based models has been analysed.
 
 
 
